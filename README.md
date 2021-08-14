@@ -23,7 +23,11 @@ Adding jar files
   for other Linux distributions (not using .deb), 
   other OS (like Mac OSx, Windows ...) 
   or simply as a purist variant.
-  
+
+    java test -h
+    
+    java test -v
+    
     java -jar SMonitor.jar
     try: java -jar SMonitor.jar --help
     
@@ -32,6 +36,9 @@ Adding jar files
     hint: [F1] when the timer is up
 
 
-===============
+============================================================== 
+
 I had to add ".zip" to "*.jar" to use the upload here. 
+
 Just delete it on your download.
+
