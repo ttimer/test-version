@@ -32,13 +32,13 @@ Adding jar files
     try: java -jar SMonitor.jar --help
     
     java -jar ttimer.jar
-    try: java -jar SMonitor.jar -v
+    try: java -jar ttimer.jar -v
     hint: [F1] when the timer is up
 
 
 ============================================================== 
 
-I had to add ".zip" to "*.jar" to use the upload here. 
+I had to add ".zip" to "ttimer.jar" to use the upload here. 
 
 Just delete it on your download.
 
