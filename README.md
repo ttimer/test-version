@@ -24,10 +24,6 @@ Adding jar files
   other OS (like Mac OSx, Windows ...) 
   or simply as a purist variant.
 
-    java test -h
-    
-    java test -v
-    
     java -jar SMonitor.jar
     try: java -jar SMonitor.jar --help
     
