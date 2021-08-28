@@ -21,7 +21,7 @@ If terminal and file are not in the same folder you have to add the path, of cou
 
 Adding jar files 
   for other Linux distributions (not using .deb), 
-  other OS (like Mac OSx, Windows ...) 
+  other OS (like Mac OSx, Windows ...), 
   or simply as a purist variant.
 
     java -jar SMonitor.jar
@@ -33,8 +33,3 @@ Adding jar files
 
 
 ============================================================== 
-
-I had to add ".zip" to "ttimer.jar" to use the upload here. 
-
-Just delete it on your download.
-
